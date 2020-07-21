@@ -1,7 +1,7 @@
 # Password Generator #
 
-[Features](#features)
-[How to Use](#How)
+[Features](#features)\
+[How to Use](#How-to-use)
 
 I built this simple but effective password generator to allow the user to fully customize what characters they want to use in their randomized password. This addresses the issue of certain websites requiring specific characters but not allowing certain characters. With this generator, you can select if you want lower case letters, upper case letters, numbers, and even individual special characters. This makes it much more functional for someone that needs to make their password fit a certain criteria. 
 
