@@ -40,7 +40,7 @@ function generatePassword() {
       if (useNums) passwordCharacters.push(NUMERIC);
 
       // declare a list of what special characters the user wants to use
-      let specialCharacters;
+      let specialCharacters = '';
 
       // If the list is less than one, loop this code
       while (specialCharacters.length < 1) {
