@@ -12,7 +12,7 @@ I built this simple but effective password generator to allow the user to fully 
 * Allows the user to choose which special characters they want
 * Generates a fully randomized password matching the criteria the user has selected
 
-![A screenshot of the deployed Password Generator Page](./screenshots/password_generator.png)
+![A screenshot of the deployed Password Generator Page](./assets/screenshots/password_generator.png)
 [Quick link to the deployed applicaton on GitHub Pages](https://ntkonzen.github.io/password_generator/)
 
 ### How to Use ###
